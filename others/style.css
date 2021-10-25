@@ -1,0 +1,35 @@
+:root {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.navbar-brand {
+  font-size: 3rem;
+}
+
+#countdown {
+  position: relative;
+  background: url('images/DSC00980.jpg') ;
+  background-size: cover;
+  background-position: center;
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#countdown .dark-bg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0.7;
+  z-index: 0;
+}
+
+#countdown-timer {
+  font-size: 120px;
+}
+
+.font-curl {
+  font-family: 'Birthstone', cursive;
+}
