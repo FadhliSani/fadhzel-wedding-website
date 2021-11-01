@@ -4,6 +4,16 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+.tukar {
+	color: white !important;
+	text-transform: inherit !important;
+	letter-spacing: 3px !important;
+	padding: 0 50px;
+	margin: auto !important;
+}
+
+
+
 body{
 	padding:0;
 	margin:0;
@@ -86,6 +96,10 @@ p.sub_title {
     text-shadow: 3px 3px 3px #151313;
     color: #cbcfd4;
     font-weight: 400;
+}
+
+.text-center {
+ text-align: center !important;
 }
 
 .navbar {
@@ -180,7 +194,7 @@ ul.nav.navbar-nav li a:hover {
 
 /*-- /header --*/
 .w3ls_banner_section {
-    background: url(../others/images/DSC00980.jpg) no-repeat 0px 0px;
+    background: url(../images/FadhliHazel/DSC00727-black-01.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -432,7 +446,7 @@ ul.nav.navbar-nav li a:hover {
 }
 /*--agileinfo-bottom-section --*/
 .agileinfo_bottom_section {
-    background: url(../images/11.jpg)no-repeat 0px 0px;
+    background: url(../images/FadhliHazel/flower-black-01.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -699,7 +713,7 @@ h3.h-t {
 /*-- //about --*/
 /*-- /counter-agile --*/
 .agileinfo_counter_section {
-    background: url(../images/counter.jpg)no-repeat 0px 0px;
+    background: url(../images/FadhliHazel/DSC00727-black-01.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -711,7 +725,7 @@ h3.h-t {
 .wthree-counter-agile {
     width:60%;
      
-    margin: 8% auto 8%;
+    margin: 3% auto 8%;
 }
 .simply-section {
 	display: inline-block;
@@ -911,7 +925,7 @@ figure.effect-moses:hover img {
 .date {
     text-align: center;
     margin: 0 auto;
-    width: 25%;
+    width: 30%;
 }
 /*--moses--*/
 /*-- /news--*/
