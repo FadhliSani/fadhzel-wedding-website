@@ -5,11 +5,14 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 .tukar {
+	font-size: 0.95em !important;
 	color: white !important;
 	text-transform: inherit !important;
 	letter-spacing: 3px !important;
 	padding: 0 50px;
 	margin: auto !important;
+	font-weight: 400 !important;
+	line-height: 2.3em !important;
 }
 
 
@@ -950,7 +953,8 @@ figure.effect-moses:hover img {
     padding-top: 50px;	
 }
 .w3-agile-left {
-    width: 70%;
+    width: 100%;
+		height: 100%;
     border-bottom: 4px solid #0b67d4;
 	background: rgba(12, 12, 12, 0.41);
     padding: 31px 10px;
@@ -960,7 +964,8 @@ figure.effect-moses:hover img {
     z-index: 1;
 }
 .w3-agile-left2 {
-        width: 70%;
+	width: 100%;
+	height: 100%;
     padding: 31px 10px;
     position: absolute;
     right: 0%;
