@@ -4,6 +4,8 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+
+
 .tukar {
 	font-size: 0.95em !important;
 	color: white !important;
@@ -197,7 +199,7 @@ ul.nav.navbar-nav li a:hover {
 
 /*-- /header --*/
 .w3ls_banner_section {
-    background: url(../images/FadhliHazel/DSC00727-black-01.jpg) no-repeat 0px 0px;
+    background: url(../images/FadhliHazel/DSC00879-crop-01.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -739,6 +741,18 @@ h3.h-t {
 
 .countdown-small {
 	font-size: small;
+}
+
+#countdown-timer {
+	color: white !important;
+	font-size: 45px;
+}
+
+@media (max-width: 426px) {
+	#countdown-timer {
+		color: white !important;
+		font-size: 18px;
+	}
 }
 
 .countdown-timer-w3laits h3 {
