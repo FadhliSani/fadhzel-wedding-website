@@ -739,6 +739,21 @@ h3.h-t {
 	text-align: center;
 }
 
+.border-white{
+	border: 1px solid white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin: 5px;
+}
+
+.pb-0 {
+	padding-bottom: 0 !important;
+}
+
+.pt-0 {
+	padding-top: 0 !important;
+}
+
 .countdown-small {
 	font-size: small;
 }
